@@ -1,0 +1,35 @@
+h1 {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.logo {
+    padding-left: 20px;
+    padding-bottom: 0;
+    width: 150px;
+    height: 150px;
+}
+
+.featured-title {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.featured-work {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0;
+}
+
+.featured-work-img {
+    margin: 20px 0 30px 0;
+    padding: 0;
+    max-width: 340px;
+}
+
+.work-description {
+    float: right;
+    margin: 80px 50px 0 0;
+    padding: 10px;
+}
